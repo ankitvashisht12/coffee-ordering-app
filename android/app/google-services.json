@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967155012160",
+    "firebase_url": "https://caffecup-d263e.firebaseio.com",
+    "project_id": "caffecup-d263e",
+    "storage_bucket": "caffecup-d263e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967155012160:android:4e09b4fb0634a151edc5a5",
+        "android_client_info": {
+          "package_name": "com.example.coffee_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967155012160-dbbjj4uop0feqj07nhve38luqi6vjr8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwYGHsHAMbN_xm6fctAcVpio2S9dZ6kNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967155012160-dbbjj4uop0feqj07nhve38luqi6vjr8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
